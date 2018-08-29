@@ -10,6 +10,7 @@ public class JankenController {
      private static final String[] hands = {
      "グー", "チョキ", "パー"
      };
+
      private int score = 0;
      private int win = 0;
      private int draw = 0;
